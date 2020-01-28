@@ -1,5 +1,10 @@
 ===============================================================================
-# DDCLIENT v3.9.1
+# DDCLIENT-NG v4.0.0
+
+ddclient-ng is a hard fork of github.com/ddclient/ddclient with added ipv6 support
+and many PRs merged. Use at your own risk. Works on my machine.
+
+===============================================================================
 
 ddclient is a Perl client used to update dynamic DNS entries for accounts
 on many dynamic DNS services.

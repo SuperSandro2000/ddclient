@@ -25,7 +25,7 @@ use Getopt::Long;
 use Sys::Hostname;
 use IO::Socket;
 
-my $version  = "3.9.1";
+my $version  = "4.0.0";
 my $programd  = $0; 
 $programd =~ s%^.*/%%;
 my $program   = $programd;
